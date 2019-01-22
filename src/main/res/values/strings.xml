@@ -1,0 +1,4 @@
+<resources>
+	<string name="STRING_LOADING">Loading...</string>
+	<string name="STRING_CANCEL">取消</string>
+</resources>
