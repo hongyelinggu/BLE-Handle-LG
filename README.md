@@ -75,7 +75,7 @@ BLEHandle getinstance = BLEHandle.getinstance();
 |boolean supported(Context mContext)|判断APP是否支持低功耗蓝牙 |
 |void writeCharacteristic(byte[] data, BlutoothListener.NotificeDataListener mWriteData)|蓝牙发送数据 |
 
-更多信息请下载文档查看
+更多信息请下载文档查看 https://download.csdn.net/download/male09/11013712
 
 
   [1]: https://img.shields.io/badge/%20Gradle-V%201.1.1-brightgreen.svg
